@@ -1,5 +1,6 @@
 from flask import Flask, render_template
 from flask_bootstrap import Bootstrap
+import jinja2
 
 app = Flask(__name__,static_folder='static')
 bootstrap = Bootstrap(app)
