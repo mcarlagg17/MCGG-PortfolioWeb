@@ -5,5 +5,5 @@ Flask==2.2.2
 gunicorn # en heroku
 #git # este para deploy
 #python-git==2018.2.1 # solo para Mac
-Flask-Bootstrap==3.3.7.1
+#Flask-Bootstrap==3.3.7.1
 jinja2
